@@ -25,7 +25,7 @@ export const database = [
     name: "Nairaland Landing Page",
     image:
       "https://ipfs.filebase.io/ipfs/bafybeic5quqhutu4x3xtr3imk2v2djkonk6stuybh3z4bwbtd6azrmz3iu",
-    link: "https://nairalandd.netlify.app/",
+    link: "https://nairalandclone.netlify.app/",
   },
   {
     id: 5,
@@ -52,6 +52,6 @@ export const database = [
     name: "Github Profile Finder",
     image:
       "https://ipfs.filebase.io/ipfs/bafybeian3k6rikzanzeiheic5pzp3n3cd5i7fum3nq5quuzkiqd4ihhebu",
-    link: "https://atere-github-profilefinder.netlify.app/",
+    link: "https://profilefinderr.netlify.app/",
   },
 ];

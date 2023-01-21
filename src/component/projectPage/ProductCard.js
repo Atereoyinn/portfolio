@@ -4,6 +4,7 @@ import { ImageStyle,Circle,BrowserClone,Container,Paragraph,Link } from "./Produ
 const ProductCard = ({ name, image, link }) => {
   return (
     <Container>
+      {console.log(image)}
       <BrowserClone>
        <Circle />
         <Circle />
